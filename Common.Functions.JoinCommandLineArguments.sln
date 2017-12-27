@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Functions.JoinCommandLineArguments", "Common.Functions.JoinCommandLineArguments\Common.Functions.JoinCommandLineArguments.csproj", "{679FC2C5-7D70-4FC2-89C3-B53BC5B54BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679FC2C5-7D70-4FC2-89C3-B53BC5B54BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679FC2C5-7D70-4FC2-89C3-B53BC5B54BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679FC2C5-7D70-4FC2-89C3-B53BC5B54BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679FC2C5-7D70-4FC2-89C3-B53BC5B54BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC42E13-EDFD-46B6-B54A-06E0491424AE}
+	EndGlobalSection
+EndGlobal
